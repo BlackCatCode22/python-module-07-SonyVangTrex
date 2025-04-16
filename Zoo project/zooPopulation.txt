@@ -1,0 +1,28 @@
+Hyena Habitat:
+
+Hy01; Lol; birth date: 2021-06-15; tan color; Female; 70 pounds; from From Frigui Park, Tunisia; arrived 2025-04-16
+Hy02; HaHa; birth date: 2013-06-15; brown color; male; 150 pounds; from from Friguia Park, Tunisia; arrived 2025-04-16
+Hy03; AhAh; birth date: 2021-06-15; black color; male; 120 pounds; from from Friguia Park, Tunisia; arrived 2025-04-16
+Hy04; Laughy; birth date: 2017-06-15; black and tan striped color; female; 105 pounds; from from Friguia Park, Tunisia; arrived 2025-04-16
+
+Lion Habitat:
+
+Li01; Kitty; birth date: 2019-06-15; tan color; female; 300 pounds; from from Zanzibar, Tanzania; arrived 2025-04-16
+Li02; sweety; birth date: 2013-06-15; dark tan color; female; 375 pounds; from from KopeLion, Tanzania; arrived 2025-04-16
+Li03; hairy; birth date: 2003-06-15; golden color; male; 450 pounds; from from Zanzibar, Tanzania; arrived 2025-04-16
+Li04; Smitty; birth date: 2021-06-15; tan and brown color; female; 275 pounds; from from KopeLion, Tanzania; arrived 2025-04-16
+
+Tiger Habitat:
+
+Ti01; Jake; birth date: 2023-06-15; gold and tan stripes color; male; 400 pounds; from from Dhaka, Dangladesh; arrived 2025-04-16
+Ti02; Dog; birth date: 2021-06-15; black stripes color; female; 400 pounds; from from Dhaka, Dangladesh; arrived 2025-04-16
+Ti03; Steve; birth date: 2007-06-15; gold and tan color; male; 300 pounds; from from Bardia, Nepal; arrived 2025-04-16
+Ti04; Lave; birth date: 2022-06-15; brown ,black stripes color; female; 285 pounds; from from Bardia, Nepal; arrived 2025-04-16
+
+Bear Habitat:
+
+Be01; Lazy; birth date: 2018-06-15; brown color; male; 320 pounds; from from Alaska Zoo, Alaska; arrived 2025-04-16
+Be02; Sleepy; birth date: 2000-06-15; black color; female; 425 pounds; from from Woodland park Zoo, Washington; arrived 2025-04-16
+Be03; Greedy; birth date: 2021-06-15; black color; female; 355 pounds; from from Wooldland park Zoo, Washington; arrived 2025-04-16
+Be04; Hungry; birth date: 2021-06-15; brown color; male; 405 pounds; from from Alaska Zoo, Alaska; arrived 2025-04-16
+
